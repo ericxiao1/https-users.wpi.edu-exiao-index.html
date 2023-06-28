@@ -16,10 +16,8 @@
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
         <p> </p>
-        <p>&nbsp;<img src="michelen-studios-Do1EdrDi1ac-unsplash%20%281%29.jpg"
-
-            alt="The violin is the hardest insturment to play" title="Violin" longdesc="https://unsplash.com/photos/Do1EdrDi1ac"
-
+        <p>&nbsp;<img src="michelen-studios-Do1EdrDi1ac-unsplash%20%281%29.jpg"
+            alt="The violin is the hardest insturment to play" title="Violin" longdesc="https://unsplash.com/photos/Do1EdrDi1ac"
             style="width: 250px; height: 280px;"></p>
         <p>&nbsp;<img> </p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
@@ -48,7 +46,7 @@
             <ul>
               <li><a href="index.html">Home</a></li>
               <li><a href="aboutme.html">Violin</a></li>
-              <li><a href="feedback.html">PVZ2</a></li>
+              <li><a href="pvz2.html">PVZ2</a></li>
             </ul>
           </div>
           <!-- end of side column: put your navigation menu, etc, above this line -->
@@ -56,10 +54,8 @@
       </div>
       <div style="clear: both;"></div>
       <div id="tswfooter">
-        <!-- start of footer section: insert your copyright notice, etc, here --><img
-
-          src="markus-gjengaar-v3l8kTbPhzA-unsplash%20%282%29.jpg" title="piano"
-
+        <!-- start of footer section: insert your copyright notice, etc, here --><img
+          src="markus-gjengaar-v3l8kTbPhzA-unsplash%20%282%29.jpg" title="piano"
           style="width: 691px; height: 460px;">
         <p> The Piano - not a hard instrument to play but a hard instrument to
           master. </p>
