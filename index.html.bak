@@ -9,7 +9,18 @@
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
   </head>
-  <body>
+  <body><img src="file:///Z:/violin.jpg" alt="" style="width: 300px; height: 300px;">
+    <div id="google_translate_element"></div>
+    <script type="text/javascript"> 
+        function googleTranslateElementInit() { 
+            new google.translate.TranslateElement(
+                {pageLanguage: 'en'}, 
+                'google_translate_element'
+            ); 
+        } 
+    </script>
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
     <p> This is a photo of the violin. It is the smallest string instrument of
       the string quartet. </p>
     <div id="tswcontainer">
@@ -52,8 +63,10 @@
       </div>
       <div style="clear: both;"></div>
       <div id="tswfooter">
-        <!-- start of footer section: insert your copyright notice, etc, here --><img
-          src="markus-gjengaar-v3l8kTbPhzA-unsplash%20%282%29.jpg" title="piano"
+        <!-- start of footer section: insert your copyright notice, etc, here --><img
+
+          src="markus-gjengaar-v3l8kTbPhzA-unsplash%20%282%29.jpg" title="piano"
+
           style="width: 691px; height: 460px;">
         <p> The Piano - not a hard instrument to play but a hard instrument to
           master. </p>

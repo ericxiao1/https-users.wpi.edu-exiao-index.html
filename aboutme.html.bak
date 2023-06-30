@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  </head>
+  <body>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>Eric</title>
     <meta http-equiv="Content-Style-Type" content="text/css">
@@ -8,16 +10,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="all" href="styles.css">
     <link rel="stylesheet" type="text/css" href="tswnavbar.css">
-  </head>
-  <body>
-    <p> <img src="lucia-macedo-d9_2kPJBG0U-unsplash.jpg" alt="">This is a photo
-      of the violin. It is the smallest string instrument of the string quartet.
-    </p>
+    <p> This is a photo of the violin. It is the smallest string instrument of
+      the string quartet. </p>
     <div id="tswcontainer">
       <div id="tswheader">
         <!-- start of header section: insert your logo, etc, here -->
         <p> </p>
-        <p>&nbsp;</p>
+        <p>&nbsp;<img src="violin.jpg" alt="" style="width: 300px; height: 300px;"></p>
         <p>&nbsp;<img> </p>
         <!-- end of header section: insert your logo, etc, above this line --> </div>
       <div id="tswcontent">
@@ -47,11 +46,18 @@
             recommended me to try out for the district auditions. She told me
             that I would have a good chance of making the cut, and that it would
             be beneficial for me in the future if I did. </p>
-          <p> The song for the audition was a simple song, and a song I had
-            played before. Just like my teacher predicted, I did make the cut,
+          <p> The piece for the audition was a piece that I had already played
+            for my teacher. Just like my teacher predicted, I did make the cut,
             so I would have to commit two online orchestra concerts. I felt very
             achieved making it in the Junior Districts but I knew there was
             still some skills to work on. </p>
+          <p>This year, I also auditioned for the Junior Districts. The piece
+            was also another piece that I had already played. However, Junior
+            Districts was being held in person this year, so I only had one
+            take. I didn't do as well as I wish I did, but still made the cut.
+            We had 2 4 hour rehearsals and we had a 7-8 hour rehearsal on the
+            day of the concert. The performance was splendid and had better
+            quality compared to my school's concert orchestra. </p>
           <p> In conclusion, the violin has been a main hobby for me, and
             definitely a challenging instrument to play. </p>
           <p>&nbsp;</p>

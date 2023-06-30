@@ -1,5 +1,6 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  background-color: red;
 }
 
 img {
@@ -20,14 +21,14 @@ div#tswsidecol {
   float: right;
   width: 20%;
   color: black;
-  background-color: white;
+  
 }
 
 div#tswcontent {
   float: right;
   width: 80%;
   color: black;
-  background-color: white;
+  
 }
 
 @media only screen and ( max-width : 629px ) {
@@ -48,7 +49,7 @@ div#tswcontproper {
 
 div#tswcontainer {
   color: ;
-  background-color: white;
+  
 }
 
 div#tswsideproper, div#tswothersideproper {
@@ -58,7 +59,7 @@ div#tswsideproper, div#tswothersideproper {
 
 div#tswheader {
   color: black;
-  background-color: white;
+  
 }
 
 div {
